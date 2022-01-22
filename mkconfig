@@ -1,0 +1,6 @@
+<$MKINCDIR/config
+PROGNAME = matrix-output
+INCS = -I$INCDIR
+CFILES = main.c
+AFILES = $OBJDIR/9.a $OBJDIR/aes.a
+
